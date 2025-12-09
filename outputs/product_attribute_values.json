@@ -1,0 +1,502 @@
+[
+  {
+    "product_id": 1,
+    "attribute_id": 1,
+    "value": "1920x1080"
+  },
+  {
+    "product_id": 2,
+    "attribute_id": 2,
+    "value": "256GB"
+  },
+  {
+    "product_id": 3,
+    "attribute_id": 3,
+    "value": "Black"
+  },
+  {
+    "product_id": 4,
+    "attribute_id": 4,
+    "value": "Cotton"
+  },
+  {
+    "product_id": 5,
+    "attribute_id": 5,
+    "value": "32"
+  },
+  {
+    "product_id": 6,
+    "attribute_id": 6,
+    "value": "5.5 inches"
+  },
+  {
+    "product_id": 7,
+    "attribute_id": 7,
+    "value": "3000mAh"
+  },
+  {
+    "product_id": 8,
+    "attribute_id": 8,
+    "value": "Water Resistant"
+  },
+  {
+    "product_id": 9,
+    "attribute_id": 9,
+    "value": "8GB"
+  },
+  {
+    "product_id": 10,
+    "attribute_id": 10,
+    "value": "Full HD"
+  },
+  {
+    "product_id": 11,
+    "attribute_id": 11,
+    "value": "Leather"
+  },
+  {
+    "product_id": 12,
+    "attribute_id": 12,
+    "value": "4K"
+  },
+  {
+    "product_id": 13,
+    "attribute_id": 13,
+    "value": "120Hz"
+  },
+  {
+    "product_id": 14,
+    "attribute_id": 14,
+    "value": "15.6 inches"
+  },
+  {
+    "product_id": 15,
+    "attribute_id": 15,
+    "value": "500GB"
+  },
+  {
+    "product_id": 16,
+    "attribute_id": 16,
+    "value": "60W"
+  },
+  {
+    "product_id": 17,
+    "attribute_id": 17,
+    "value": "Satin"
+  },
+  {
+    "product_id": 18,
+    "attribute_id": 18,
+    "value": "Medium"
+  },
+  {
+    "product_id": 19,
+    "attribute_id": 19,
+    "value": "High"
+  },
+  {
+    "product_id": 20,
+    "attribute_id": 20,
+    "value": "10,000mAh"
+  },
+  {
+    "product_id": 21,
+    "attribute_id": 21,
+    "value": "Android"
+  },
+  {
+    "product_id": 22,
+    "attribute_id": 22,
+    "value": "iOS"
+  },
+  {
+    "product_id": 23,
+    "attribute_id": 23,
+    "value": "Sensitive Skin"
+  },
+  {
+    "product_id": 24,
+    "attribute_id": 24,
+    "value": "Fill Power: 600"
+  },
+  {
+    "product_id": 25,
+    "attribute_id": 25,
+    "value": "Non-Stick"
+  },
+  {
+    "product_id": 26,
+    "attribute_id": 26,
+    "value": "Stainless Steel"
+  },
+  {
+    "product_id": 27,
+    "attribute_id": 27,
+    "value": "BPA Free"
+  },
+  {
+    "product_id": 28,
+    "attribute_id": 28,
+    "value": "Eco-Friendly"
+  },
+  {
+    "product_id": 29,
+    "attribute_id": 29,
+    "value": "Adjustable"
+  },
+  {
+    "product_id": 30,
+    "attribute_id": 30,
+    "value": "Wireless"
+  },
+  {
+    "product_id": 31,
+    "attribute_id": 31,
+    "value": "Bluetooth 5.0"
+  },
+  {
+    "product_id": 32,
+    "attribute_id": 32,
+    "value": "Noise Cancelling"
+  },
+  {
+    "product_id": 33,
+    "attribute_id": 33,
+    "value": "Over-Ear"
+  },
+  {
+    "product_id": 34,
+    "attribute_id": 34,
+    "value": "RGB Lighting"
+  },
+  {
+    "product_id": 35,
+    "attribute_id": 35,
+    "value": "Mechanical"
+  },
+  {
+    "product_id": 36,
+    "attribute_id": 36,
+    "value": "Ergonomic"
+  },
+  {
+    "product_id": 37,
+    "attribute_id": 37,
+    "value": "USB-C"
+  },
+  {
+    "product_id": 38,
+    "attribute_id": 38,
+    "value": "1080p"
+  },
+  {
+    "product_id": 39,
+    "attribute_id": 39,
+    "value": "Dual SIM"
+  },
+  {
+    "product_id": 40,
+    "attribute_id": 40,
+    "value": "Fingerprint Sensor"
+  },
+  {
+    "product_id": 41,
+    "attribute_id": 41,
+    "value": "Face Recognition"
+  },
+  {
+    "product_id": 42,
+    "attribute_id": 42,
+    "value": "128GB"
+  },
+  {
+    "product_id": 43,
+    "attribute_id": 43,
+    "value": "High Performance"
+  },
+  {
+    "product_id": 44,
+    "attribute_id": 44,
+    "value": "Gaming"
+  },
+  {
+    "product_id": 45,
+    "attribute_id": 45,
+    "value": "Ultra HD"
+  },
+  {
+    "product_id": 46,
+    "attribute_id": 46,
+    "value": "Smart TV"
+  },
+  {
+    "product_id": 47,
+    "attribute_id": 47,
+    "value": "Voice Control"
+  },
+  {
+    "product_id": 48,
+    "attribute_id": 48,
+    "value": "HDR"
+  },
+  {
+    "product_id": 49,
+    "attribute_id": 49,
+    "value": "3D Compatible"
+  },
+  {
+    "product_id": 50,
+    "attribute_id": 50,
+    "value": "LED"
+  },
+  {
+    "product_id": 51,
+    "attribute_id": 51,
+    "value": "Touchscreen"
+  },
+  {
+    "product_id": 52,
+    "attribute_id": 52,
+    "value": "High Capacity"
+  },
+  {
+    "product_id": 53,
+    "attribute_id": 53,
+    "value": "Portable"
+  },
+  {
+    "product_id": 54,
+    "attribute_id": 54,
+    "value": "Compact"
+  },
+  {
+    "product_id": 55,
+    "attribute_id": 55,
+    "value": "Lightweight"
+  },
+  {
+    "product_id": 56,
+    "attribute_id": 56,
+    "value": "Durable"
+  },
+  {
+    "product_id": 57,
+    "attribute_id": 57,
+    "value": "Rechargeable"
+  },
+  {
+    "product_id": 58,
+    "attribute_id": 58,
+    "value": "Fast Charging"
+  },
+  {
+    "product_id": 59,
+    "attribute_id": 59,
+    "value": "Multi-Device"
+  },
+  {
+    "product_id": 60,
+    "attribute_id": 60,
+    "value": "High Fidelity"
+  },
+  {
+    "product_id": 61,
+    "attribute_id": 61,
+    "value": "Customizable"
+  },
+  {
+    "product_id": 62,
+    "attribute_id": 62,
+    "value": "Waterproof"
+  },
+  {
+    "product_id": 63,
+    "attribute_id": 63,
+    "value": "Shockproof"
+  },
+  {
+    "product_id": 64,
+    "attribute_id": 64,
+    "value": "UV Protection"
+  },
+  {
+    "product_id": 65,
+    "attribute_id": 65,
+    "value": "Anti-Fog"
+  },
+  {
+    "product_id": 66,
+    "attribute_id": 66,
+    "value": "Polarized"
+  },
+  {
+    "product_id": 67,
+    "attribute_id": 67,
+    "value": "Scratch Resistant"
+  },
+  {
+    "product_id": 68,
+    "attribute_id": 68,
+    "value": "Lightweight Frame"
+  },
+  {
+    "product_id": 69,
+    "attribute_id": 69,
+    "value": "Adjustable Nose Pads"
+  },
+  {
+    "product_id": 70,
+    "attribute_id": 70,
+    "value": "High Contrast"
+  },
+  {
+    "product_id": 71,
+    "attribute_id": 71,
+    "value": "Wide Angle"
+  },
+  {
+    "product_id": 72,
+    "attribute_id": 72,
+    "value": "Fisheye"
+  },
+  {
+    "product_id": 73,
+    "attribute_id": 73,
+    "value": "Night Vision"
+  },
+  {
+    "product_id": 74,
+    "attribute_id": 74,
+    "value": "360-Degree"
+  },
+  {
+    "product_id": 75,
+    "attribute_id": 75,
+    "value": "Wireless Connectivity"
+  },
+  {
+    "product_id": 76,
+    "attribute_id": 76,
+    "value": "Portable Design"
+  },
+  {
+    "product_id": 77,
+    "attribute_id": 77,
+    "value": "High Resolution"
+  },
+  {
+    "product_id": 78,
+    "attribute_id": 78,
+    "value": "Built-in Microphone"
+  },
+  {
+    "product_id": 79,
+    "attribute_id": 79,
+    "value": "Remote Control"
+  },
+  {
+    "product_id": 80,
+    "attribute_id": 80,
+    "value": "Smart Features"
+  },
+  {
+    "product_id": 81,
+    "attribute_id": 81,
+    "value": "Energy Efficient"
+  },
+  {
+    "product_id": 82,
+    "attribute_id": 82,
+    "value": "Quiet Operation"
+  },
+  {
+    "product_id": 83,
+    "attribute_id": 83,
+    "value": "Compact Size"
+  },
+  {
+    "product_id": 84,
+    "attribute_id": 84,
+    "value": "Easy to Clean"
+  },
+  {
+    "product_id": 85,
+    "attribute_id": 85,
+    "value": "Versatile"
+  },
+  {
+    "product_id": 86,
+    "attribute_id": 86,
+    "value": "Multi-Function"
+  },
+  {
+    "product_id": 87,
+    "attribute_id": 87,
+    "value": "Heavy Duty"
+  },
+  {
+    "product_id": 88,
+    "attribute_id": 88,
+    "value": "User Friendly"
+  },
+  {
+    "product_id": 89,
+    "attribute_id": 89,
+    "value": "Child Safe"
+  },
+  {
+    "product_id": 90,
+    "attribute_id": 90,
+    "value": "Non-Toxic"
+  },
+  {
+    "product_id": 91,
+    "attribute_id": 91,
+    "value": "Sustainable"
+  },
+  {
+    "product_id": 92,
+    "attribute_id": 92,
+    "value": "Recyclable"
+  },
+  {
+    "product_id": 93,
+    "attribute_id": 93,
+    "value": "Hypoallergenic"
+  },
+  {
+    "product_id": 94,
+    "attribute_id": 94,
+    "value": "Organic"
+  },
+  {
+    "product_id": 95,
+    "attribute_id": 95,
+    "value": "Cruelty-Free"
+  },
+  {
+    "product_id": 96,
+    "attribute_id": 96,
+    "value": "Vegan"
+  },
+  {
+    "product_id": 97,
+    "attribute_id": 97,
+    "value": "Gluten-Free"
+  },
+  {
+    "product_id": 98,
+    "attribute_id": 98,
+    "value": "Low Sugar"
+  },
+  {
+    "product_id": 99,
+    "attribute_id": 99,
+    "value": "High Fiber"
+  },
+  {
+    "product_id": 100,
+    "attribute_id": 100,
+    "value": "Protein Rich"
+  }
+]

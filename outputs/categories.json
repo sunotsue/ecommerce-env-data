@@ -1,0 +1,602 @@
+[
+  {
+    "category_id": 1,
+    "name": "Electronics",
+    "parent_category_id": null,
+    "slug": "electronics"
+  },
+  {
+    "category_id": 2,
+    "name": "Computers",
+    "parent_category_id": 1,
+    "slug": "computers"
+  },
+  {
+    "category_id": 3,
+    "name": "Laptops",
+    "parent_category_id": 2,
+    "slug": "laptops"
+  },
+  {
+    "category_id": 4,
+    "name": "Desktops",
+    "parent_category_id": 2,
+    "slug": "desktops"
+  },
+  {
+    "category_id": 5,
+    "name": "Smartphones",
+    "parent_category_id": 1,
+    "slug": "smartphones"
+  },
+  {
+    "category_id": 6,
+    "name": "Cameras",
+    "parent_category_id": 1,
+    "slug": "cameras"
+  },
+  {
+    "category_id": 7,
+    "name": "Fashion",
+    "parent_category_id": null,
+    "slug": "fashion"
+  },
+  {
+    "category_id": 8,
+    "name": "Men's Clothing",
+    "parent_category_id": 7,
+    "slug": "mens-clothing"
+  },
+  {
+    "category_id": 9,
+    "name": "Women's Clothing",
+    "parent_category_id": 7,
+    "slug": "womens-clothing"
+  },
+  {
+    "category_id": 10,
+    "name": "Footwear",
+    "parent_category_id": 7,
+    "slug": "footwear"
+  },
+  {
+    "category_id": 11,
+    "name": "Home & Garden",
+    "parent_category_id": null,
+    "slug": "home-garden"
+  },
+  {
+    "category_id": 12,
+    "name": "Furniture",
+    "parent_category_id": 11,
+    "slug": "furniture"
+  },
+  {
+    "category_id": 13,
+    "name": "Kitchenware",
+    "parent_category_id": 11,
+    "slug": "kitchenware"
+  },
+  {
+    "category_id": 14,
+    "name": "Toys",
+    "parent_category_id": null,
+    "slug": "toys"
+  },
+  {
+    "category_id": 15,
+    "name": "Action Figures",
+    "parent_category_id": 14,
+    "slug": "action-figures"
+  },
+  {
+    "category_id": 16,
+    "name": "Board Games",
+    "parent_category_id": 14,
+    "slug": "board-games"
+  },
+  {
+    "category_id": 17,
+    "name": "Sports",
+    "parent_category_id": null,
+    "slug": "sports"
+  },
+  {
+    "category_id": 18,
+    "name": "Outdoor Equipment",
+    "parent_category_id": 17,
+    "slug": "outdoor-equipment"
+  },
+  {
+    "category_id": 19,
+    "name": "Fitness Gear",
+    "parent_category_id": 17,
+    "slug": "fitness-gear"
+  },
+  {
+    "category_id": 20,
+    "name": "Health & Beauty",
+    "parent_category_id": null,
+    "slug": "health-beauty"
+  },
+  {
+    "category_id": 21,
+    "name": "Skincare",
+    "parent_category_id": 20,
+    "slug": "skincare"
+  },
+  {
+    "category_id": 22,
+    "name": "Makeup",
+    "parent_category_id": 20,
+    "slug": "makeup"
+  },
+  {
+    "category_id": 23,
+    "name": "Books",
+    "parent_category_id": null,
+    "slug": "books"
+  },
+  {
+    "category_id": 24,
+    "name": "Fiction",
+    "parent_category_id": 23,
+    "slug": "fiction"
+  },
+  {
+    "category_id": 25,
+    "name": "Non-Fiction",
+    "parent_category_id": 23,
+    "slug": "non-fiction"
+  },
+  {
+    "category_id": 26,
+    "name": "Electronics",
+    "parent_category_id": null,
+    "slug": "electronics"
+  },
+  {
+    "category_id": 27,
+    "name": "Computers",
+    "parent_category_id": 26,
+    "slug": "computers"
+  },
+  {
+    "category_id": 28,
+    "name": "Laptops",
+    "parent_category_id": 27,
+    "slug": "laptops"
+  },
+  {
+    "category_id": 29,
+    "name": "Desktops",
+    "parent_category_id": 27,
+    "slug": "desktops"
+  },
+  {
+    "category_id": 30,
+    "name": "Smartphones",
+    "parent_category_id": 26,
+    "slug": "smartphones"
+  },
+  {
+    "category_id": 31,
+    "name": "Cameras",
+    "parent_category_id": 26,
+    "slug": "cameras"
+  },
+  {
+    "category_id": 32,
+    "name": "Home Appliances",
+    "parent_category_id": null,
+    "slug": "home-appliances"
+  },
+  {
+    "category_id": 33,
+    "name": "Kitchen Appliances",
+    "parent_category_id": 32,
+    "slug": "kitchen-appliances"
+  },
+  {
+    "category_id": 34,
+    "name": "Refrigerators",
+    "parent_category_id": 33,
+    "slug": "refrigerators"
+  },
+  {
+    "category_id": 35,
+    "name": "Washing Machines",
+    "parent_category_id": 33,
+    "slug": "washing-machines"
+  },
+  {
+    "category_id": 36,
+    "name": "Fashion",
+    "parent_category_id": null,
+    "slug": "fashion"
+  },
+  {
+    "category_id": 37,
+    "name": "Men's Clothing",
+    "parent_category_id": 36,
+    "slug": "mens-clothing"
+  },
+  {
+    "category_id": 38,
+    "name": "Women's Clothing",
+    "parent_category_id": 36,
+    "slug": "womens-clothing"
+  },
+  {
+    "category_id": 39,
+    "name": "Footwear",
+    "parent_category_id": 36,
+    "slug": "footwear"
+  },
+  {
+    "category_id": 40,
+    "name": "Sports",
+    "parent_category_id": null,
+    "slug": "sports"
+  },
+  {
+    "category_id": 41,
+    "name": "Running Shoes",
+    "parent_category_id": 39,
+    "slug": "running-shoes"
+  },
+  {
+    "category_id": 42,
+    "name": "Cycling",
+    "parent_category_id": 40,
+    "slug": "cycling"
+  },
+  {
+    "category_id": 43,
+    "name": "Outdoor Gear",
+    "parent_category_id": 40,
+    "slug": "outdoor-gear"
+  },
+  {
+    "category_id": 44,
+    "name": "Toys",
+    "parent_category_id": null,
+    "slug": "toys"
+  },
+  {
+    "category_id": 45,
+    "name": "Action Figures",
+    "parent_category_id": 44,
+    "slug": "action-figures"
+  },
+  {
+    "category_id": 46,
+    "name": "Board Games",
+    "parent_category_id": 44,
+    "slug": "board-games"
+  },
+  {
+    "category_id": 47,
+    "name": "Books",
+    "parent_category_id": null,
+    "slug": "books"
+  },
+  {
+    "category_id": 48,
+    "name": "Fiction",
+    "parent_category_id": 47,
+    "slug": "fiction"
+  },
+  {
+    "category_id": 49,
+    "name": "Non-Fiction",
+    "parent_category_id": 47,
+    "slug": "non-fiction"
+  },
+  {
+    "category_id": 50,
+    "name": "Children's Books",
+    "parent_category_id": 47,
+    "slug": "childrens-books"
+  },
+  {
+    "category_id": 51,
+    "name": "Electronics",
+    "parent_category_id": null,
+    "slug": "electronics"
+  },
+  {
+    "category_id": 52,
+    "name": "Computers",
+    "parent_category_id": 51,
+    "slug": "computers"
+  },
+  {
+    "category_id": 53,
+    "name": "Laptops",
+    "parent_category_id": 52,
+    "slug": "laptops"
+  },
+  {
+    "category_id": 54,
+    "name": "Desktops",
+    "parent_category_id": 52,
+    "slug": "desktops"
+  },
+  {
+    "category_id": 55,
+    "name": "Smartphones",
+    "parent_category_id": 51,
+    "slug": "smartphones"
+  },
+  {
+    "category_id": 56,
+    "name": "Tablets",
+    "parent_category_id": 51,
+    "slug": "tablets"
+  },
+  {
+    "category_id": 57,
+    "name": "Accessories",
+    "parent_category_id": 51,
+    "slug": "accessories"
+  },
+  {
+    "category_id": 58,
+    "name": "Home Appliances",
+    "parent_category_id": null,
+    "slug": "home-appliances"
+  },
+  {
+    "category_id": 59,
+    "name": "Refrigerators",
+    "parent_category_id": 58,
+    "slug": "refrigerators"
+  },
+  {
+    "category_id": 60,
+    "name": "Washing Machines",
+    "parent_category_id": 58,
+    "slug": "washing-machines"
+  },
+  {
+    "category_id": 61,
+    "name": "Televisions",
+    "parent_category_id": 58,
+    "slug": "televisions"
+  },
+  {
+    "category_id": 62,
+    "name": "Fashion",
+    "parent_category_id": null,
+    "slug": "fashion"
+  },
+  {
+    "category_id": 63,
+    "name": "Men's Clothing",
+    "parent_category_id": 62,
+    "slug": "mens-clothing"
+  },
+  {
+    "category_id": 64,
+    "name": "Women's Clothing",
+    "parent_category_id": 62,
+    "slug": "womens-clothing"
+  },
+  {
+    "category_id": 65,
+    "name": "Footwear",
+    "parent_category_id": 62,
+    "slug": "footwear"
+  },
+  {
+    "category_id": 66,
+    "name": "Sports",
+    "parent_category_id": null,
+    "slug": "sports"
+  },
+  {
+    "category_id": 67,
+    "name": "Running Shoes",
+    "parent_category_id": 65,
+    "slug": "running-shoes"
+  },
+  {
+    "category_id": 68,
+    "name": "Gym Equipment",
+    "parent_category_id": 66,
+    "slug": "gym-equipment"
+  },
+  {
+    "category_id": 69,
+    "name": "Outdoor Gear",
+    "parent_category_id": 66,
+    "slug": "outdoor-gear"
+  },
+  {
+    "category_id": 70,
+    "name": "Toys",
+    "parent_category_id": null,
+    "slug": "toys"
+  },
+  {
+    "category_id": 71,
+    "name": "Action Figures",
+    "parent_category_id": 70,
+    "slug": "action-figures"
+  },
+  {
+    "category_id": 72,
+    "name": "Dolls",
+    "parent_category_id": 70,
+    "slug": "dolls"
+  },
+  {
+    "category_id": 73,
+    "name": "Board Games",
+    "parent_category_id": 70,
+    "slug": "board-games"
+  },
+  {
+    "category_id": 74,
+    "name": "Books",
+    "parent_category_id": null,
+    "slug": "books"
+  },
+  {
+    "category_id": 75,
+    "name": "Fiction",
+    "parent_category_id": 74,
+    "slug": "fiction"
+  },
+  {
+    "category_id": 76,
+    "name": "Electronics",
+    "parent_category_id": null,
+    "slug": "electronics"
+  },
+  {
+    "category_id": 77,
+    "name": "Computers",
+    "parent_category_id": 76,
+    "slug": "computers"
+  },
+  {
+    "category_id": 78,
+    "name": "Laptops",
+    "parent_category_id": 77,
+    "slug": "laptops"
+  },
+  {
+    "category_id": 79,
+    "name": "Desktops",
+    "parent_category_id": 77,
+    "slug": "desktops"
+  },
+  {
+    "category_id": 80,
+    "name": "Monitors",
+    "parent_category_id": 77,
+    "slug": "monitors"
+  },
+  {
+    "category_id": 81,
+    "name": "Mobile Phones",
+    "parent_category_id": 76,
+    "slug": "mobile-phones"
+  },
+  {
+    "category_id": 82,
+    "name": "Smartphones",
+    "parent_category_id": 81,
+    "slug": "smartphones"
+  },
+  {
+    "category_id": 83,
+    "name": "Accessories",
+    "parent_category_id": 81,
+    "slug": "accessories"
+  },
+  {
+    "category_id": 84,
+    "name": "Home Appliances",
+    "parent_category_id": null,
+    "slug": "home-appliances"
+  },
+  {
+    "category_id": 85,
+    "name": "Refrigerators",
+    "parent_category_id": 84,
+    "slug": "refrigerators"
+  },
+  {
+    "category_id": 86,
+    "name": "Washing Machines",
+    "parent_category_id": 84,
+    "slug": "washing-machines"
+  },
+  {
+    "category_id": 87,
+    "name": "Furniture",
+    "parent_category_id": null,
+    "slug": "furniture"
+  },
+  {
+    "category_id": 88,
+    "name": "Living Room",
+    "parent_category_id": 87,
+    "slug": "living-room"
+  },
+  {
+    "category_id": 89,
+    "name": "Bedroom",
+    "parent_category_id": 87,
+    "slug": "bedroom"
+  },
+  {
+    "category_id": 90,
+    "name": "Clothing",
+    "parent_category_id": null,
+    "slug": "clothing"
+  },
+  {
+    "category_id": 91,
+    "name": "Men's Clothing",
+    "parent_category_id": 90,
+    "slug": "mens-clothing"
+  },
+  {
+    "category_id": 92,
+    "name": "Women's Clothing",
+    "parent_category_id": 90,
+    "slug": "womens-clothing"
+  },
+  {
+    "category_id": 93,
+    "name": "Footwear",
+    "parent_category_id": null,
+    "slug": "footwear"
+  },
+  {
+    "category_id": 94,
+    "name": "Sports Shoes",
+    "parent_category_id": 93,
+    "slug": "sports-shoes"
+  },
+  {
+    "category_id": 95,
+    "name": "Casual Shoes",
+    "parent_category_id": 93,
+    "slug": "casual-shoes"
+  },
+  {
+    "category_id": 96,
+    "name": "Toys",
+    "parent_category_id": null,
+    "slug": "toys"
+  },
+  {
+    "category_id": 97,
+    "name": "Action Figures",
+    "parent_category_id": 96,
+    "slug": "action-figures"
+  },
+  {
+    "category_id": 98,
+    "name": "Board Games",
+    "parent_category_id": 96,
+    "slug": "board-games"
+  },
+  {
+    "category_id": 99,
+    "name": "Books",
+    "parent_category_id": null,
+    "slug": "books"
+  },
+  {
+    "category_id": 100,
+    "name": "Fiction",
+    "parent_category_id": 99,
+    "slug": "fiction"
+  }
+]

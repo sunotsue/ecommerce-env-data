@@ -1,0 +1,802 @@
+[
+  {
+    "image_id": 1,
+    "product_id": 1,
+    "url": "https://example.com/images/product1_image1.jpg",
+    "alt_text": "Product 1 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 2,
+    "product_id": 1,
+    "url": "https://example.com/images/product1_image2.jpg",
+    "alt_text": "Product 1 - Image 2",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 3,
+    "product_id": 2,
+    "url": "https://example.com/images/product2_image1.jpg",
+    "alt_text": "Product 2 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 4,
+    "product_id": 3,
+    "url": "https://example.com/images/product3_image1.jpg",
+    "alt_text": "Product 3 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 5,
+    "product_id": 3,
+    "url": "https://example.com/images/product3_image2.jpg",
+    "alt_text": "Product 3 - Image 2",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 6,
+    "product_id": 4,
+    "url": "https://example.com/images/product4_image1.jpg",
+    "alt_text": "Product 4 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 7,
+    "product_id": 5,
+    "url": "https://example.com/images/product5_image1.jpg",
+    "alt_text": "Product 5 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 8,
+    "product_id": 5,
+    "url": "https://example.com/images/product5_image2.jpg",
+    "alt_text": "Product 5 - Image 2",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 9,
+    "product_id": 6,
+    "url": "https://example.com/images/product6_image1.jpg",
+    "alt_text": "Product 6 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 10,
+    "product_id": 7,
+    "url": "https://example.com/images/product7_image1.jpg",
+    "alt_text": "Product 7 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 11,
+    "product_id": 8,
+    "url": "https://example.com/images/product8_image1.jpg",
+    "alt_text": "Product 8 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 12,
+    "product_id": 9,
+    "url": "https://example.com/images/product9_image1.jpg",
+    "alt_text": "Product 9 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 13,
+    "product_id": 10,
+    "url": "https://example.com/images/product10_image1.jpg",
+    "alt_text": "Product 10 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 14,
+    "product_id": 11,
+    "url": "https://example.com/images/product11_image1.jpg",
+    "alt_text": "Product 11 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 15,
+    "product_id": 12,
+    "url": "https://example.com/images/product12_image1.jpg",
+    "alt_text": "Product 12 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 16,
+    "product_id": 13,
+    "url": "https://example.com/images/product13_image1.jpg",
+    "alt_text": "Product 13 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 17,
+    "product_id": 14,
+    "url": "https://example.com/images/product14_image1.jpg",
+    "alt_text": "Product 14 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 18,
+    "product_id": 15,
+    "url": "https://example.com/images/product15_image1.jpg",
+    "alt_text": "Product 15 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 19,
+    "product_id": 16,
+    "url": "https://example.com/images/product16_image1.jpg",
+    "alt_text": "Product 16 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 20,
+    "product_id": 17,
+    "url": "https://example.com/images/product17_image1.jpg",
+    "alt_text": "Product 17 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 21,
+    "product_id": 18,
+    "url": "https://example.com/images/product18_image1.jpg",
+    "alt_text": "Product 18 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 22,
+    "product_id": 19,
+    "url": "https://example.com/images/product19_image1.jpg",
+    "alt_text": "Product 19 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 23,
+    "product_id": 20,
+    "url": "https://example.com/images/product20_image1.jpg",
+    "alt_text": "Product 20 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 24,
+    "product_id": 21,
+    "url": "https://example.com/images/product21_image1.jpg",
+    "alt_text": "Product 21 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 25,
+    "product_id": 22,
+    "url": "https://example.com/images/product22_image1.jpg",
+    "alt_text": "Product 22 - Image 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 26,
+    "product_id": 1,
+    "url": "https://example.com/images/product1_image1.jpg",
+    "alt_text": "Image of product 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 27,
+    "product_id": 1,
+    "url": "https://example.com/images/product1_image2.jpg",
+    "alt_text": "Second image of product 1",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 28,
+    "product_id": 2,
+    "url": "https://example.com/images/product2_image1.jpg",
+    "alt_text": "Image of product 2",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 29,
+    "product_id": 3,
+    "url": "https://example.com/images/product3_image1.jpg",
+    "alt_text": "Image of product 3",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 30,
+    "product_id": 3,
+    "url": "https://example.com/images/product3_image2.jpg",
+    "alt_text": "Second image of product 3",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 31,
+    "product_id": 4,
+    "url": "https://example.com/images/product4_image1.jpg",
+    "alt_text": "Image of product 4",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 32,
+    "product_id": 5,
+    "url": "https://example.com/images/product5_image1.jpg",
+    "alt_text": "Image of product 5",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 33,
+    "product_id": 6,
+    "url": "https://example.com/images/product6_image1.jpg",
+    "alt_text": "Image of product 6",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 34,
+    "product_id": 7,
+    "url": "https://example.com/images/product7_image1.jpg",
+    "alt_text": "Image of product 7",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 35,
+    "product_id": 8,
+    "url": "https://example.com/images/product8_image1.jpg",
+    "alt_text": "Image of product 8",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 36,
+    "product_id": 9,
+    "url": "https://example.com/images/product9_image1.jpg",
+    "alt_text": "Image of product 9",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 37,
+    "product_id": 10,
+    "url": "https://example.com/images/product10_image1.jpg",
+    "alt_text": "Image of product 10",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 38,
+    "product_id": 11,
+    "url": "https://example.com/images/product11_image1.jpg",
+    "alt_text": "Image of product 11",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 39,
+    "product_id": 12,
+    "url": "https://example.com/images/product12_image1.jpg",
+    "alt_text": "Image of product 12",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 40,
+    "product_id": 13,
+    "url": "https://example.com/images/product13_image1.jpg",
+    "alt_text": "Image of product 13",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 41,
+    "product_id": 14,
+    "url": "https://example.com/images/product14_image1.jpg",
+    "alt_text": "Image of product 14",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 42,
+    "product_id": 15,
+    "url": "https://example.com/images/product15_image1.jpg",
+    "alt_text": "Image of product 15",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 43,
+    "product_id": 16,
+    "url": "https://example.com/images/product16_image1.jpg",
+    "alt_text": "Image of product 16",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 44,
+    "product_id": 17,
+    "url": "https://example.com/images/product17_image1.jpg",
+    "alt_text": "Image of product 17",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 45,
+    "product_id": 18,
+    "url": "https://example.com/images/product18_image1.jpg",
+    "alt_text": "Image of product 18",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 46,
+    "product_id": 19,
+    "url": "https://example.com/images/product19_image1.jpg",
+    "alt_text": "Image of product 19",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 47,
+    "product_id": 20,
+    "url": "https://example.com/images/product20_image1.jpg",
+    "alt_text": "Image of product 20",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 48,
+    "product_id": 21,
+    "url": "https://example.com/images/product21_image1.jpg",
+    "alt_text": "Image of product 21",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 49,
+    "product_id": 22,
+    "url": "https://example.com/images/product22_image1.jpg",
+    "alt_text": "Image of product 22",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 50,
+    "product_id": 23,
+    "url": "https://example.com/images/product23_image1.jpg",
+    "alt_text": "Image of product 23",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 51,
+    "product_id": 1,
+    "url": "https://example.com/images/product1_image1.jpg",
+    "alt_text": "Image of Product 1",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 52,
+    "product_id": 2,
+    "url": "https://example.com/images/product2_image1.jpg",
+    "alt_text": "Image of Product 2",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 53,
+    "product_id": 1,
+    "url": "https://example.com/images/product1_image2.jpg",
+    "alt_text": "Second image of Product 1",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 54,
+    "product_id": 3,
+    "url": "https://example.com/images/product3_image1.jpg",
+    "alt_text": "Image of Product 3",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 55,
+    "product_id": 2,
+    "url": "https://example.com/images/product2_image2.jpg",
+    "alt_text": "Second image of Product 2",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 56,
+    "product_id": 4,
+    "url": "https://example.com/images/product4_image1.jpg",
+    "alt_text": "Image of Product 4",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 57,
+    "product_id": 5,
+    "url": "https://example.com/images/product5_image1.jpg",
+    "alt_text": "Image of Product 5",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 58,
+    "product_id": 6,
+    "url": "https://example.com/images/product6_image1.jpg",
+    "alt_text": "Image of Product 6",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 59,
+    "product_id": 7,
+    "url": "https://example.com/images/product7_image1.jpg",
+    "alt_text": "Image of Product 7",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 60,
+    "product_id": 8,
+    "url": "https://example.com/images/product8_image1.jpg",
+    "alt_text": "Image of Product 8",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 61,
+    "product_id": 9,
+    "url": "https://example.com/images/product9_image1.jpg",
+    "alt_text": "Image of Product 9",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 62,
+    "product_id": 10,
+    "url": "https://example.com/images/product10_image1.jpg",
+    "alt_text": "Image of Product 10",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 63,
+    "product_id": 11,
+    "url": "https://example.com/images/product11_image1.jpg",
+    "alt_text": "Image of Product 11",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 64,
+    "product_id": 12,
+    "url": "https://example.com/images/product12_image1.jpg",
+    "alt_text": "Image of Product 12",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 65,
+    "product_id": 13,
+    "url": "https://example.com/images/product13_image1.jpg",
+    "alt_text": "Image of Product 13",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 66,
+    "product_id": 14,
+    "url": "https://example.com/images/product14_image1.jpg",
+    "alt_text": "Image of Product 14",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 67,
+    "product_id": 15,
+    "url": "https://example.com/images/product15_image1.jpg",
+    "alt_text": "Image of Product 15",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 68,
+    "product_id": 16,
+    "url": "https://example.com/images/product16_image1.jpg",
+    "alt_text": "Image of Product 16",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 69,
+    "product_id": 17,
+    "url": "https://example.com/images/product17_image1.jpg",
+    "alt_text": "Image of Product 17",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 70,
+    "product_id": 18,
+    "url": "https://example.com/images/product18_image1.jpg",
+    "alt_text": "Image of Product 18",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 71,
+    "product_id": 19,
+    "url": "https://example.com/images/product19_image1.jpg",
+    "alt_text": "Image of Product 19",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 72,
+    "product_id": 20,
+    "url": "https://example.com/images/product20_image1.jpg",
+    "alt_text": "Image of Product 20",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 73,
+    "product_id": 21,
+    "url": "https://example.com/images/product21_image1.jpg",
+    "alt_text": "Image of Product 21",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 74,
+    "product_id": 22,
+    "url": "https://example.com/images/product22_image1.jpg",
+    "alt_text": "Image of Product 22",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 75,
+    "product_id": 23,
+    "url": "https://example.com/images/product23_image1.jpg",
+    "alt_text": "Image of Product 23",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 76,
+    "product_id": 1,
+    "url": "https://example.com/images/product1_image1.jpg",
+    "alt_text": "Image of Product 1 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 77,
+    "product_id": 1,
+    "url": "https://example.com/images/product1_image2.jpg",
+    "alt_text": "Image of Product 1 - Side View",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 78,
+    "product_id": 2,
+    "url": "https://example.com/images/product2_image1.jpg",
+    "alt_text": "Image of Product 2 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 79,
+    "product_id": 3,
+    "url": "https://example.com/images/product3_image1.jpg",
+    "alt_text": "Image of Product 3 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 80,
+    "product_id": 3,
+    "url": "https://example.com/images/product3_image2.jpg",
+    "alt_text": "Image of Product 3 - Back View",
+    "is_primary": false,
+    "display_order": 2
+  },
+  {
+    "image_id": 81,
+    "product_id": 4,
+    "url": "https://example.com/images/product4_image1.jpg",
+    "alt_text": "Image of Product 4 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 82,
+    "product_id": 5,
+    "url": "https://example.com/images/product5_image1.jpg",
+    "alt_text": "Image of Product 5 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 83,
+    "product_id": 6,
+    "url": "https://example.com/images/product6_image1.jpg",
+    "alt_text": "Image of Product 6 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 84,
+    "product_id": 7,
+    "url": "https://example.com/images/product7_image1.jpg",
+    "alt_text": "Image of Product 7 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 85,
+    "product_id": 8,
+    "url": "https://example.com/images/product8_image1.jpg",
+    "alt_text": "Image of Product 8 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 86,
+    "product_id": 9,
+    "url": "https://example.com/images/product9_image1.jpg",
+    "alt_text": "Image of Product 9 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 87,
+    "product_id": 10,
+    "url": "https://example.com/images/product10_image1.jpg",
+    "alt_text": "Image of Product 10 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 88,
+    "product_id": 11,
+    "url": "https://example.com/images/product11_image1.jpg",
+    "alt_text": "Image of Product 11 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 89,
+    "product_id": 12,
+    "url": "https://example.com/images/product12_image1.jpg",
+    "alt_text": "Image of Product 12 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 90,
+    "product_id": 13,
+    "url": "https://example.com/images/product13_image1.jpg",
+    "alt_text": "Image of Product 13 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 91,
+    "product_id": 14,
+    "url": "https://example.com/images/product14_image1.jpg",
+    "alt_text": "Image of Product 14 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 92,
+    "product_id": 15,
+    "url": "https://example.com/images/product15_image1.jpg",
+    "alt_text": "Image of Product 15 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 93,
+    "product_id": 16,
+    "url": "https://example.com/images/product16_image1.jpg",
+    "alt_text": "Image of Product 16 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 94,
+    "product_id": 17,
+    "url": "https://example.com/images/product17_image1.jpg",
+    "alt_text": "Image of Product 17 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 95,
+    "product_id": 18,
+    "url": "https://example.com/images/product18_image1.jpg",
+    "alt_text": "Image of Product 18 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 96,
+    "product_id": 19,
+    "url": "https://example.com/images/product19_image1.jpg",
+    "alt_text": "Image of Product 19 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 97,
+    "product_id": 20,
+    "url": "https://example.com/images/product20_image1.jpg",
+    "alt_text": "Image of Product 20 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 98,
+    "product_id": 21,
+    "url": "https://example.com/images/product21_image1.jpg",
+    "alt_text": "Image of Product 21 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 99,
+    "product_id": 22,
+    "url": "https://example.com/images/product22_image1.jpg",
+    "alt_text": "Image of Product 22 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  },
+  {
+    "image_id": 100,
+    "product_id": 23,
+    "url": "https://example.com/images/product23_image1.jpg",
+    "alt_text": "Image of Product 23 - Front View",
+    "is_primary": true,
+    "display_order": 1
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "brand_id": 1,
+    "name": "AuroraTech",
+    "country": "US"
+  },
+  {
+    "brand_id": 2,
+    "name": "GlamourGlow",
+    "country": "KR"
+  },
+  {
+    "brand_id": 3,
+    "name": "StyleSphere",
+    "country": "JP"
+  },
+  {
+    "brand_id": 4,
+    "name": "HomeHaven",
+    "country": "DE"
+  },
+  {
+    "brand_id": 5,
+    "name": "ElectraWave",
+    "country": "US"
+  },
+  {
+    "brand_id": 6,
+    "name": "PureEssence",
+    "country": "FR"
+  },
+  {
+    "brand_id": 7,
+    "name": "ChicNest",
+    "country": "IT"
+  },
+  {
+    "brand_id": 8,
+    "name": "TechNova",
+    "country": "US"
+  },
+  {
+    "brand_id": 9,
+    "name": "RadiantSkin",
+    "country": "UK"
+  },
+  {
+    "brand_id": 10,
+    "name": "FashionFusion",
+    "country": "JP"
+  },
+  {
+    "brand_id": 11,
+    "name": "SmartHome",
+    "country": "CA"
+  },
+  {
+    "brand_id": 12,
+    "name": "LuxeBeauty",
+    "country": "AU"
+  },
+  {
+    "brand_id": 13,
+    "name": "GadgetGuru",
+    "country": "US"
+  },
+  {
+    "brand_id": 14,
+    "name": "UrbanChic",
+    "country": "FR"
+  },
+  {
+    "brand_id": 15,
+    "name": "CozyCorner",
+    "country": "DE"
+  },
+  {
+    "brand_id": 16,
+    "name": "PixelPerfect",
+    "country": "KR"
+  },
+  {
+    "brand_id": 17,
+    "name": "ElysianFields",
+    "country": "IT"
+  },
+  {
+    "brand_id": 18,
+    "name": "VividTech",
+    "country": "US"
+  },
+  {
+    "brand_id": 19,
+    "name": "SereneGlow",
+    "country": "JP"
+  },
+  {
+    "brand_id": 20,
+    "name": "TrendSetter",
+    "country": "UK"
+  },
+  {
+    "brand_id": 21,
+    "name": "SmartGrove",
+    "country": "CA"
+  },
+  {
+    "brand_id": 22,
+    "name": "EssenceOfNature",
+    "country": "AU"
+  },
+  {
+    "brand_id": 23,
+    "name": "InnovateHome",
+    "country": "US"
+  },
+  {
+    "brand_id": 24,
+    "name": "GlamourWave",
+    "country": "FR"
+  },
+  {
+    "brand_id": 25,
+    "name": "StyleNest",
+    "country": "IT"
+  },
+  {
+    "brand_id": 26,
+    "name": "AuroraTech",
+    "country": "US"
+  },
+  {
+    "brand_id": 27,
+    "name": "LuxeGlow",
+    "country": "FR"
+  },
+  {
+    "brand_id": 28,
+    "name": "StyleWave",
+    "country": "IT"
+  },
+  {
+    "brand_id": 29,
+    "name": "HomeNest",
+    "country": "DE"
+  },
+  {
+    "brand_id": 30,
+    "name": "GadgetSphere",
+    "country": "JP"
+  },
+  {
+    "brand_id": 31,
+    "name": "PureEssence",
+    "country": "KR"
+  },
+  {
+    "brand_id": 32,
+    "name": "ChicThreads",
+    "country": "UK"
+  },
+  {
+    "brand_id": 33,
+    "name": "EcoHaven",
+    "country": "CA"
+  },
+  {
+    "brand_id": 34,
+    "name": "TechNova",
+    "country": "US"
+  },
+  {
+    "brand_id": 35,
+    "name": "RadiantSkin",
+    "country": "AU"
+  },
+  {
+    "brand_id": 36,
+    "name": "UrbanStyle",
+    "country": "BR"
+  },
+  {
+    "brand_id": 37,
+    "name": "SmartHome",
+    "country": "SG"
+  },
+  {
+    "brand_id": 38,
+    "name": "VividCosmetics",
+    "country": "IN"
+  },
+  {
+    "brand_id": 39,
+    "name": "FashionPulse",
+    "country": "ES"
+  },
+  {
+    "brand_id": 40,
+    "name": "ZenLiving",
+    "country": "NL"
+  },
+  {
+    "brand_id": 41,
+    "name": "PixelGadgets",
+    "country": "CN"
+  },
+  {
+    "brand_id": 42,
+    "name": "GlowUp",
+    "country": "IT"
+  },
+  {
+    "brand_id": 43,
+    "name": "TrendyWear",
+    "country": "FR"
+  },
+  {
+    "brand_id": 44,
+    "name": "ComfortHome",
+    "country": "US"
+  },
+  {
+    "brand_id": 45,
+    "name": "ElectroWave",
+    "country": "JP"
+  },
+  {
+    "brand_id": 46,
+    "name": "SleekBeauty",
+    "country": "KR"
+  },
+  {
+    "brand_id": 47,
+    "name": "ClassicChic",
+    "country": "UK"
+  },
+  {
+    "brand_id": 48,
+    "name": "NestEssentials",
+    "country": "CA"
+  },
+  {
+    "brand_id": 49,
+    "name": "FutureTech",
+    "country": "DE"
+  },
+  {
+    "brand_id": 50,
+    "name": "SereneStyle",
+    "country": "AU"
+  },
+  {
+    "brand_id": 51,
+    "name": "TechNova",
+    "country": "US"
+  },
+  {
+    "brand_id": 52,
+    "name": "GlamourGlow",
+    "country": "KR"
+  },
+  {
+    "brand_id": 53,
+    "name": "Fashionista",
+    "country": "FR"
+  },
+  {
+    "brand_id": 54,
+    "name": "HomeHaven",
+    "country": "US"
+  },
+  {
+    "brand_id": 55,
+    "name": "ElectroWave",
+    "country": "JP"
+  },
+  {
+    "brand_id": 56,
+    "name": "BeautyBliss",
+    "country": "DE"
+  },
+  {
+    "brand_id": 57,
+    "name": "StyleSphere",
+    "country": "IT"
+  },
+  {
+    "brand_id": 58,
+    "name": "SmartHome",
+    "country": "US"
+  },
+  {
+    "brand_id": 59,
+    "name": "ChicAura",
+    "country": "UK"
+  },
+  {
+    "brand_id": 60,
+    "name": "GadgetGuru",
+    "country": "IN"
+  },
+  {
+    "brand_id": 61,
+    "name": "PureEssence",
+    "country": "CA"
+  },
+  {
+    "brand_id": 62,
+    "name": "UrbanStyle",
+    "country": "AU"
+  },
+  {
+    "brand_id": 63,
+    "name": "NextGenTech",
+    "country": "SG"
+  },
+  {
+    "brand_id": 64,
+    "name": "RadiantSkin",
+    "country": "BR"
+  },
+  {
+    "brand_id": 65,
+    "name": "TrendyThreads",
+    "country": "MX"
+  },
+  {
+    "brand_id": 66,
+    "name": "EcoHome",
+    "country": "NL"
+  },
+  {
+    "brand_id": 67,
+    "name": "DigitalDreams",
+    "country": "ZA"
+  },
+  {
+    "brand_id": 68,
+    "name": "SleekDesigns",
+    "country": "SE"
+  },
+  {
+    "brand_id": 69,
+    "name": "LuxeBeauty",
+    "country": "CH"
+  },
+  {
+    "brand_id": 70,
+    "name": "HomeEssentials",
+    "country": "IE"
+  },
+  {
+    "brand_id": 71,
+    "name": "VisionaryTech",
+    "country": "NO"
+  },
+  {
+    "brand_id": 72,
+    "name": "ElegantWear",
+    "country": "PL"
+  },
+  {
+    "brand_id": 73,
+    "name": "SmartGadgets",
+    "country": "FI"
+  },
+  {
+    "brand_id": 74,
+    "name": "VibrantHome",
+    "country": "AT"
+  },
+  {
+    "brand_id": 75,
+    "name": "GlowUp",
+    "country": "DK"
+  },
+  {
+    "brand_id": 76,
+    "name": "AuroraTech",
+    "country": "US"
+  },
+  {
+    "brand_id": 77,
+    "name": "LuxeGlow",
+    "country": "KR"
+  },
+  {
+    "brand_id": 78,
+    "name": "StyleHaven",
+    "country": "JP"
+  },
+  {
+    "brand_id": 79,
+    "name": "EcoNest",
+    "country": "DE"
+  },
+  {
+    "brand_id": 80,
+    "name": "GadgetPro",
+    "country": "US"
+  },
+  {
+    "brand_id": 81,
+    "name": "BeautyBloom",
+    "country": "KR"
+  },
+  {
+    "brand_id": 82,
+    "name": "FashionWave",
+    "country": "JP"
+  },
+  {
+    "brand_id": 83,
+    "name": "HomeEssence",
+    "country": "DE"
+  },
+  {
+    "brand_id": 84,
+    "name": "TechSphere",
+    "country": "US"
+  },
+  {
+    "brand_id": 85,
+    "name": "RadiantSkin",
+    "country": "KR"
+  },
+  {
+    "brand_id": 86,
+    "name": "ChicBoutique",
+    "country": "JP"
+  },
+  {
+    "brand_id": 87,
+    "name": "ComfortLiving",
+    "country": "DE"
+  },
+  {
+    "brand_id": 88,
+    "name": "SmartGizmo",
+    "country": "US"
+  },
+  {
+    "brand_id": 89,
+    "name": "GlowUp",
+    "country": "KR"
+  },
+  {
+    "brand_id": 90,
+    "name": "UrbanStyle",
+    "country": "JP"
+  },
+  {
+    "brand_id": 91,
+    "name": "SereneHome",
+    "country": "DE"
+  },
+  {
+    "brand_id": 92,
+    "name": "Innovatech",
+    "country": "US"
+  },
+  {
+    "brand_id": 93,
+    "name": "PureEssence",
+    "country": "KR"
+  },
+  {
+    "brand_id": 94,
+    "name": "TrendyThreads",
+    "country": "JP"
+  },
+  {
+    "brand_id": 95,
+    "name": "CozyNest",
+    "country": "DE"
+  },
+  {
+    "brand_id": 96,
+    "name": "NextGenDevices",
+    "country": "US"
+  },
+  {
+    "brand_id": 97,
+    "name": "VelvetTouch",
+    "country": "KR"
+  },
+  {
+    "brand_id": 98,
+    "name": "FashionFusion",
+    "country": "JP"
+  },
+  {
+    "brand_id": 99,
+    "name": "HarmoniousHome",
+    "country": "DE"
+  },
+  {
+    "brand_id": 100,
+    "name": "QuantumTech",
+    "country": "US"
+  }
+]

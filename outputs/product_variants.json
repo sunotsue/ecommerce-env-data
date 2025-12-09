@@ -1,0 +1,902 @@
+[
+  {
+    "variant_id": 1,
+    "product_id": 3,
+    "variant_sku": "MON-001-27QHD-BLK",
+    "color_name": "Black",
+    "size_label": "M",
+    "additional_price_delta": 5.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 2,
+    "product_id": 7,
+    "variant_sku": "MON-002-27QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "L",
+    "additional_price_delta": 10.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 3,
+    "product_id": 12,
+    "variant_sku": "MON-003-27QHD-WHT",
+    "color_name": "White",
+    "size_label": "S",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 4,
+    "product_id": 5,
+    "variant_sku": "MON-004-27QHD-RED",
+    "color_name": "Red",
+    "size_label": "XL",
+    "additional_price_delta": -5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 5,
+    "product_id": 9,
+    "variant_sku": "MON-005-27QHD-GRN",
+    "color_name": "Green",
+    "size_label": "M",
+    "additional_price_delta": 15.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 6,
+    "product_id": 15,
+    "variant_sku": "MON-006-27QHD-BLU",
+    "color_name": "Blue",
+    "size_label": "L",
+    "additional_price_delta": 20.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 7,
+    "product_id": 20,
+    "variant_sku": "MON-007-27QHD-YLW",
+    "color_name": "Yellow",
+    "size_label": "S",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 8,
+    "product_id": 25,
+    "variant_sku": "MON-008-27QHD-PNK",
+    "color_name": "Pink",
+    "size_label": "M",
+    "additional_price_delta": -10.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 9,
+    "product_id": 30,
+    "variant_sku": "MON-009-27QHD-ORG",
+    "color_name": "Orange",
+    "size_label": "XL",
+    "additional_price_delta": 5.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 10,
+    "product_id": 35,
+    "variant_sku": "MON-010-27QHD-BRN",
+    "color_name": "Brown",
+    "size_label": "L",
+    "additional_price_delta": 10.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 11,
+    "product_id": 40,
+    "variant_sku": "MON-011-27QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "S",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 12,
+    "product_id": 45,
+    "variant_sku": "MON-012-27QHD-CYN",
+    "color_name": "Cyan",
+    "size_label": "M",
+    "additional_price_delta": 15.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 13,
+    "product_id": 50,
+    "variant_sku": "MON-013-27QHD-MAG",
+    "color_name": "Magenta",
+    "size_label": "L",
+    "additional_price_delta": -5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 14,
+    "product_id": 55,
+    "variant_sku": "MON-014-27QHD-LIM",
+    "color_name": "Lime",
+    "size_label": "S",
+    "additional_price_delta": 10.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 15,
+    "product_id": 60,
+    "variant_sku": "MON-015-27QHD-TEA",
+    "color_name": "Teal",
+    "size_label": "XL",
+    "additional_price_delta": 20.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 16,
+    "product_id": 65,
+    "variant_sku": "MON-016-27QHD-BGE",
+    "color_name": "Beige",
+    "size_label": "M",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 17,
+    "product_id": 70,
+    "variant_sku": "MON-017-27QHD-IVO",
+    "color_name": "Ivory",
+    "size_label": "L",
+    "additional_price_delta": 5.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 18,
+    "product_id": 75,
+    "variant_sku": "MON-018-27QHD-CHA",
+    "color_name": "Charcoal",
+    "size_label": "S",
+    "additional_price_delta": -10.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 19,
+    "product_id": 80,
+    "variant_sku": "MON-019-27QHD-PLM",
+    "color_name": "Plum",
+    "size_label": "M",
+    "additional_price_delta": 15.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 20,
+    "product_id": 85,
+    "variant_sku": "MON-020-27QHD-PEA",
+    "color_name": "Peach",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 21,
+    "product_id": 90,
+    "variant_sku": "MON-021-27QHD-SEA",
+    "color_name": "Seafoam",
+    "size_label": "S",
+    "additional_price_delta": -5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 22,
+    "product_id": 95,
+    "variant_sku": "MON-022-27QHD-ANT",
+    "color_name": "Antique White",
+    "size_label": "M",
+    "additional_price_delta": 10.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 23,
+    "product_id": 100,
+    "variant_sku": "MON-023-27QHD-ASH",
+    "color_name": "Ash",
+    "size_label": "L",
+    "additional_price_delta": 20.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 24,
+    "product_id": 1,
+    "variant_sku": "MON-024-27QHD-SKY",
+    "color_name": "Sky Blue",
+    "size_label": "S",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 25,
+    "product_id": 2,
+    "variant_sku": "MON-025-27QHD-CRN",
+    "color_name": "Coral",
+    "size_label": "M",
+    "additional_price_delta": 5.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 26,
+    "product_id": 5,
+    "variant_sku": "MON-001-26QHD-BLK",
+    "color_name": "Black",
+    "size_label": "M",
+    "additional_price_delta": 5.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 27,
+    "product_id": 12,
+    "variant_sku": "MON-001-27QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 28,
+    "product_id": 3,
+    "variant_sku": "MON-001-28QHD-WHT",
+    "color_name": "White",
+    "size_label": "S",
+    "additional_price_delta": -3.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 29,
+    "product_id": 9,
+    "variant_sku": "MON-001-29QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "XL",
+    "additional_price_delta": 10.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 30,
+    "product_id": 1,
+    "variant_sku": "MON-001-30QHD-BLK",
+    "color_name": "Black",
+    "size_label": "8.5",
+    "additional_price_delta": 2.5,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 31,
+    "product_id": 15,
+    "variant_sku": "MON-001-31QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "10",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 32,
+    "product_id": 22,
+    "variant_sku": "MON-001-32QHD-WHT",
+    "color_name": "White",
+    "size_label": "12",
+    "additional_price_delta": -5.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 33,
+    "product_id": 4,
+    "variant_sku": "MON-001-33QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "M",
+    "additional_price_delta": 1.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 34,
+    "product_id": 10,
+    "variant_sku": "MON-001-34QHD-BLK",
+    "color_name": "Black",
+    "size_label": "L",
+    "additional_price_delta": 3.5,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 35,
+    "product_id": 8,
+    "variant_sku": "MON-001-35QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "S",
+    "additional_price_delta": -1.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 36,
+    "product_id": 6,
+    "variant_sku": "MON-001-36QHD-WHT",
+    "color_name": "White",
+    "size_label": "8",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 37,
+    "product_id": 14,
+    "variant_sku": "MON-001-37QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "9",
+    "additional_price_delta": 4.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 38,
+    "product_id": 2,
+    "variant_sku": "MON-001-38QHD-BLK",
+    "color_name": "Black",
+    "size_label": "L",
+    "additional_price_delta": 2.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 39,
+    "product_id": 20,
+    "variant_sku": "MON-001-39QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "M",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 40,
+    "product_id": 7,
+    "variant_sku": "MON-001-40QHD-WHT",
+    "color_name": "White",
+    "size_label": "S",
+    "additional_price_delta": -2.5,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 41,
+    "product_id": 11,
+    "variant_sku": "MON-001-41QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "XL",
+    "additional_price_delta": 5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 42,
+    "product_id": 25,
+    "variant_sku": "MON-001-42QHD-BLK",
+    "color_name": "Black",
+    "size_label": "10",
+    "additional_price_delta": 3.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 43,
+    "product_id": 18,
+    "variant_sku": "MON-001-43QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "12",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 44,
+    "product_id": 17,
+    "variant_sku": "MON-001-44QHD-WHT",
+    "color_name": "White",
+    "size_label": "8.5",
+    "additional_price_delta": -4.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 45,
+    "product_id": 19,
+    "variant_sku": "MON-001-45QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "9",
+    "additional_price_delta": 1.5,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 46,
+    "product_id": 16,
+    "variant_sku": "MON-001-46QHD-BLK",
+    "color_name": "Black",
+    "size_label": "L",
+    "additional_price_delta": 2.25,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 47,
+    "product_id": 13,
+    "variant_sku": "MON-001-47QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "M",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 48,
+    "product_id": 23,
+    "variant_sku": "MON-001-48QHD-WHT",
+    "color_name": "White",
+    "size_label": "S",
+    "additional_price_delta": -3.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 49,
+    "product_id": 24,
+    "variant_sku": "MON-001-49QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "XL",
+    "additional_price_delta": 4.5,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 50,
+    "product_id": 21,
+    "variant_sku": "MON-001-50QHD-BLK",
+    "color_name": "Black",
+    "size_label": "10",
+    "additional_price_delta": 1.75,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 51,
+    "product_id": 1,
+    "variant_sku": "MON-001-27QHD-BLK",
+    "color_name": "Black",
+    "size_label": "M",
+    "additional_price_delta": 5.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 52,
+    "product_id": 2,
+    "variant_sku": "MON-002-27QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "L",
+    "additional_price_delta": 10.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 53,
+    "product_id": 3,
+    "variant_sku": "MON-003-27QHD-WHT",
+    "color_name": "White",
+    "size_label": "S",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 54,
+    "product_id": 4,
+    "variant_sku": "MON-004-27QHD-RED",
+    "color_name": "Red",
+    "size_label": "XL",
+    "additional_price_delta": -5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 55,
+    "product_id": 5,
+    "variant_sku": "MON-005-27QHD-GRN",
+    "color_name": "Green",
+    "size_label": "M",
+    "additional_price_delta": 15.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 56,
+    "product_id": 6,
+    "variant_sku": "MON-006-27QHD-BLU",
+    "color_name": "Blue",
+    "size_label": "L",
+    "additional_price_delta": 20.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 57,
+    "product_id": 7,
+    "variant_sku": "MON-007-27QHD-YLW",
+    "color_name": "Yellow",
+    "size_label": "S",
+    "additional_price_delta": -10.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 58,
+    "product_id": 8,
+    "variant_sku": "MON-008-27QHD-PNK",
+    "color_name": "Pink",
+    "size_label": "M",
+    "additional_price_delta": 5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 59,
+    "product_id": 9,
+    "variant_sku": "MON-009-27QHD-CYN",
+    "color_name": "Cyan",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 60,
+    "product_id": 10,
+    "variant_sku": "MON-010-27QHD-MAG",
+    "color_name": "Magenta",
+    "size_label": "XL",
+    "additional_price_delta": 10.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 61,
+    "product_id": 11,
+    "variant_sku": "MON-011-27QHD-BRN",
+    "color_name": "Brown",
+    "size_label": "S",
+    "additional_price_delta": -15.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 62,
+    "product_id": 12,
+    "variant_sku": "MON-012-27QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "M",
+    "additional_price_delta": 5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 63,
+    "product_id": 13,
+    "variant_sku": "MON-013-27QHD-ORG",
+    "color_name": "Orange",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 64,
+    "product_id": 14,
+    "variant_sku": "MON-014-27QHD-PUR",
+    "color_name": "Purple",
+    "size_label": "XL",
+    "additional_price_delta": 10.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 65,
+    "product_id": 15,
+    "variant_sku": "MON-015-27QHD-TEA",
+    "color_name": "Teal",
+    "size_label": "S",
+    "additional_price_delta": -5.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 66,
+    "product_id": 16,
+    "variant_sku": "MON-016-27QHD-LAV",
+    "color_name": "Lavender",
+    "size_label": "M",
+    "additional_price_delta": 15.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 67,
+    "product_id": 17,
+    "variant_sku": "MON-017-27QHD-CHA",
+    "color_name": "Charcoal",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 68,
+    "product_id": 18,
+    "variant_sku": "MON-018-27QHD-OLI",
+    "color_name": "Olive",
+    "size_label": "XL",
+    "additional_price_delta": 10.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 69,
+    "product_id": 19,
+    "variant_sku": "MON-019-27QHD-SEA",
+    "color_name": "Seafoam",
+    "size_label": "S",
+    "additional_price_delta": -10.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 70,
+    "product_id": 20,
+    "variant_sku": "MON-020-27QHD-CRL",
+    "color_name": "Coral",
+    "size_label": "M",
+    "additional_price_delta": 5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 71,
+    "product_id": 21,
+    "variant_sku": "MON-021-27QHD-BIS",
+    "color_name": "Bisque",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 72,
+    "product_id": 22,
+    "variant_sku": "MON-022-27QHD-MAU",
+    "color_name": "Mauve",
+    "size_label": "XL",
+    "additional_price_delta": 10.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 73,
+    "product_id": 23,
+    "variant_sku": "MON-023-27QHD-PLM",
+    "color_name": "Plum",
+    "size_label": "S",
+    "additional_price_delta": -5.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 74,
+    "product_id": 24,
+    "variant_sku": "MON-024-27QHD-ANT",
+    "color_name": "Antique White",
+    "size_label": "M",
+    "additional_price_delta": 15.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 75,
+    "product_id": 25,
+    "variant_sku": "MON-025-27QHD-TEA",
+    "color_name": "Tea",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 76,
+    "product_id": 12,
+    "variant_sku": "MON-001-76QHD-BLK",
+    "color_name": "Black",
+    "size_label": "M",
+    "additional_price_delta": 5.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 77,
+    "product_id": 3,
+    "variant_sku": "MON-001-77QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 78,
+    "product_id": 25,
+    "variant_sku": "MON-001-78QHD-WHT",
+    "color_name": "White",
+    "size_label": "S",
+    "additional_price_delta": -2.5,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 79,
+    "product_id": 7,
+    "variant_sku": "MON-001-79QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "XL",
+    "additional_price_delta": 10.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 80,
+    "product_id": 19,
+    "variant_sku": "MON-001-80QHD-BRN",
+    "color_name": "Brown",
+    "size_label": "M",
+    "additional_price_delta": 3.5,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 81,
+    "product_id": 1,
+    "variant_sku": "MON-001-81QHD-BLK",
+    "color_name": "Black",
+    "size_label": "8.5",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 82,
+    "product_id": 4,
+    "variant_sku": "MON-001-82QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "9",
+    "additional_price_delta": 2.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 83,
+    "product_id": 15,
+    "variant_sku": "MON-001-83QHD-WHT",
+    "color_name": "White",
+    "size_label": "10",
+    "additional_price_delta": -1.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 84,
+    "product_id": 30,
+    "variant_sku": "MON-001-84QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "M",
+    "additional_price_delta": 4.5,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 85,
+    "product_id": 22,
+    "variant_sku": "MON-001-85QHD-BRN",
+    "color_name": "Brown",
+    "size_label": "L",
+    "additional_price_delta": 1.5,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 86,
+    "product_id": 5,
+    "variant_sku": "MON-001-86QHD-BLK",
+    "color_name": "Black",
+    "size_label": "S",
+    "additional_price_delta": 0.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 87,
+    "product_id": 8,
+    "variant_sku": "MON-001-87QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "8.5",
+    "additional_price_delta": 3.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 88,
+    "product_id": 14,
+    "variant_sku": "MON-001-88QHD-WHT",
+    "color_name": "White",
+    "size_label": "9",
+    "additional_price_delta": -2.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 89,
+    "product_id": 20,
+    "variant_sku": "MON-001-89QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "10",
+    "additional_price_delta": 5.0,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 90,
+    "product_id": 9,
+    "variant_sku": "MON-001-90QHD-BRN",
+    "color_name": "Brown",
+    "size_label": "M",
+    "additional_price_delta": 1.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 91,
+    "product_id": 6,
+    "variant_sku": "MON-001-91QHD-BLK",
+    "color_name": "Black",
+    "size_label": "L",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 92,
+    "product_id": 10,
+    "variant_sku": "MON-001-92QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "S",
+    "additional_price_delta": -1.5,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 93,
+    "product_id": 11,
+    "variant_sku": "MON-001-93QHD-WHT",
+    "color_name": "White",
+    "size_label": "8.5",
+    "additional_price_delta": 2.5,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 94,
+    "product_id": 2,
+    "variant_sku": "MON-001-94QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "9",
+    "additional_price_delta": 3.75,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 95,
+    "product_id": 13,
+    "variant_sku": "MON-001-95QHD-BRN",
+    "color_name": "Brown",
+    "size_label": "10",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 96,
+    "product_id": 17,
+    "variant_sku": "MON-001-96QHD-BLK",
+    "color_name": "Black",
+    "size_label": "M",
+    "additional_price_delta": 4.0,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 97,
+    "product_id": 18,
+    "variant_sku": "MON-001-97QHD-NAV",
+    "color_name": "Navy",
+    "size_label": "L",
+    "additional_price_delta": -2.25,
+    "stock_status": "out_of_stock"
+  },
+  {
+    "variant_id": 98,
+    "product_id": 29,
+    "variant_sku": "MON-001-98QHD-WHT",
+    "color_name": "White",
+    "size_label": "S",
+    "additional_price_delta": 1.5,
+    "stock_status": "in_stock"
+  },
+  {
+    "variant_id": 99,
+    "product_id": 21,
+    "variant_sku": "MON-001-99QHD-GRY",
+    "color_name": "Gray",
+    "size_label": "8.5",
+    "additional_price_delta": 0.0,
+    "stock_status": "low_stock"
+  },
+  {
+    "variant_id": 100,
+    "product_id": 23,
+    "variant_sku": "MON-001-100QHD-BRN",
+    "color_name": "Brown",
+    "size_label": "9",
+    "additional_price_delta": 3.0,
+    "stock_status": "in_stock"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "attribute_id": 1,
+    "category_id": 5,
+    "name": "Screen Size (inches)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 2,
+    "category_id": 12,
+    "name": "Battery Life (hours)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 3,
+    "category_id": 8,
+    "name": "Color",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 4,
+    "category_id": 15,
+    "name": "Weight (grams)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 5,
+    "category_id": 3,
+    "name": "Material",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 6,
+    "category_id": 20,
+    "name": "Water Resistance",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 7,
+    "category_id": 1,
+    "name": "Storage Capacity (GB)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 8,
+    "category_id": 9,
+    "name": "Screen Resolution",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 9,
+    "category_id": 18,
+    "name": "Processor Speed (GHz)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 10,
+    "category_id": 25,
+    "name": "Operating System",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 11,
+    "category_id": 4,
+    "name": "Camera Quality (MP)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 12,
+    "category_id": 11,
+    "name": "Skin Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 13,
+    "category_id": 6,
+    "name": "Charging Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 14,
+    "category_id": 14,
+    "name": "Bluetooth Version",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 15,
+    "category_id": 7,
+    "name": "Warranty Period (years)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 16,
+    "category_id": 2,
+    "name": "Display Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 17,
+    "category_id": 19,
+    "name": "RAM (GB)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 18,
+    "category_id": 10,
+    "name": "Release Year",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 19,
+    "category_id": 17,
+    "name": "Touchscreen",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 20,
+    "category_id": 13,
+    "name": "HDMI Ports",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 21,
+    "category_id": 16,
+    "name": "USB Ports",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 22,
+    "category_id": 21,
+    "name": "Processor Brand",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 23,
+    "category_id": 22,
+    "name": "Audio Quality",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 24,
+    "category_id": 23,
+    "name": "Screen Brightness (nits)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 25,
+    "category_id": 24,
+    "name": "Color Accuracy",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 26,
+    "category_id": 5,
+    "name": "Screen Size (inches)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 27,
+    "category_id": 12,
+    "name": "Battery Life (hours)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 28,
+    "category_id": 3,
+    "name": "Color",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 29,
+    "category_id": 8,
+    "name": "Weight (grams)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 30,
+    "category_id": 15,
+    "name": "Material",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 31,
+    "category_id": 1,
+    "name": "Water Resistance",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 32,
+    "category_id": 9,
+    "name": "Screen Resolution",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 33,
+    "category_id": 4,
+    "name": "Processor Speed (GHz)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 34,
+    "category_id": 10,
+    "name": "Storage Capacity (GB)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 35,
+    "category_id": 6,
+    "name": "Operating System",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 36,
+    "category_id": 11,
+    "name": "Skin Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 37,
+    "category_id": 2,
+    "name": "Fragrance",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 38,
+    "category_id": 7,
+    "name": "Display Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 39,
+    "category_id": 14,
+    "name": "Charging Time (hours)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 40,
+    "category_id": 13,
+    "name": "Compatibility",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 41,
+    "category_id": 16,
+    "name": "Warranty Period (years)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 42,
+    "category_id": 17,
+    "name": "Bluetooth Version",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 43,
+    "category_id": 18,
+    "name": "Camera Megapixels",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 44,
+    "category_id": 19,
+    "name": "Screen Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 45,
+    "category_id": 20,
+    "name": "Release Date",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 46,
+    "category_id": 21,
+    "name": "Input Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 47,
+    "category_id": 22,
+    "name": "Audio Output",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 48,
+    "category_id": 23,
+    "name": "Height (cm)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 49,
+    "category_id": 24,
+    "name": "Width (cm)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 50,
+    "category_id": 25,
+    "name": "Depth (cm)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 51,
+    "category_id": 12,
+    "name": "Screen Size (inches)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 52,
+    "category_id": 5,
+    "name": "Battery Life (hours)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 53,
+    "category_id": 8,
+    "name": "Weight (grams)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 54,
+    "category_id": 15,
+    "name": "Color",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 55,
+    "category_id": 3,
+    "name": "Material",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 56,
+    "category_id": 20,
+    "name": "Water Resistance",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 57,
+    "category_id": 1,
+    "name": "Storage Capacity (GB)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 58,
+    "category_id": 10,
+    "name": "Screen Resolution",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 59,
+    "category_id": 18,
+    "name": "Operating System",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 60,
+    "category_id": 4,
+    "name": "Processor Speed (GHz)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 61,
+    "category_id": 9,
+    "name": "Camera Resolution (MP)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 62,
+    "category_id": 6,
+    "name": "Skin Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 63,
+    "category_id": 2,
+    "name": "Charging Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 64,
+    "category_id": 14,
+    "name": "Warranty Period (years)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 65,
+    "category_id": 7,
+    "name": "Bluetooth Version",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 66,
+    "category_id": 11,
+    "name": "Release Date",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 67,
+    "category_id": 13,
+    "name": "Touchscreen",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 68,
+    "category_id": 19,
+    "name": "Refresh Rate (Hz)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 69,
+    "category_id": 16,
+    "name": "Face Recognition",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 70,
+    "category_id": 17,
+    "name": "Fingerprint Sensor",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 71,
+    "category_id": 25,
+    "name": "Audio Jack",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 72,
+    "category_id": 26,
+    "name": "NFC Support",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 73,
+    "category_id": 27,
+    "name": "USB Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 74,
+    "category_id": 28,
+    "name": "VR Ready",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 75,
+    "category_id": 29,
+    "name": "Gaming Mode",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 76,
+    "category_id": 12,
+    "name": "Screen Size (inches)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 77,
+    "category_id": 5,
+    "name": "Battery Life (hours)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 78,
+    "category_id": 3,
+    "name": "Color",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 79,
+    "category_id": 8,
+    "name": "Weight (grams)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 80,
+    "category_id": 15,
+    "name": "Material",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 81,
+    "category_id": 20,
+    "name": "Water Resistance",
+    "data_type": "boolean"
+  },
+  {
+    "attribute_id": 82,
+    "category_id": 1,
+    "name": "Storage Capacity (GB)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 83,
+    "category_id": 14,
+    "name": "Screen Resolution",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 84,
+    "category_id": 9,
+    "name": "Processor Speed (GHz)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 85,
+    "category_id": 7,
+    "name": "Operating System",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 86,
+    "category_id": 4,
+    "name": "Camera Megapixels",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 87,
+    "category_id": 11,
+    "name": "Connectivity Options",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 88,
+    "category_id": 2,
+    "name": "Skin Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 89,
+    "category_id": 6,
+    "name": "Fragrance",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 90,
+    "category_id": 10,
+    "name": "Warranty Period (years)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 91,
+    "category_id": 13,
+    "name": "Bluetooth Version",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 92,
+    "category_id": 16,
+    "name": "Charging Type",
+    "data_type": "enum"
+  },
+  {
+    "attribute_id": 93,
+    "category_id": 17,
+    "name": "Screen Type",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 94,
+    "category_id": 18,
+    "name": "Dimensions (cm)",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 95,
+    "category_id": 19,
+    "name": "Release Date",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 96,
+    "category_id": 21,
+    "name": "Compatibility",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 97,
+    "category_id": 22,
+    "name": "Charging Time (hours)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 98,
+    "category_id": 23,
+    "name": "Display Technology",
+    "data_type": "text"
+  },
+  {
+    "attribute_id": 99,
+    "category_id": 24,
+    "name": "RAM (GB)",
+    "data_type": "numeric"
+  },
+  {
+    "attribute_id": 100,
+    "category_id": 25,
+    "name": "Audio Features",
+    "data_type": "text"
+  }
+]
